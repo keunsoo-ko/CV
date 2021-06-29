@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Keunsoo Ko"
 title_separator          : "-"
 name                     : &name "Keunsoo Ko"
-description              : &description "personal description"
+description              : &description "Ph.D. student at Korea University"
 url                      : https://keunsoo-ko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/cv" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/keunsoo-ko/cv"
+repository               : "keunsoo-ko.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Keunsoo Ko"
   avatar           : "profile.png"
-  bio              : "a Master-Ph.D. joint course student in the School of Electrical Engineering at Korea University"
+  bio              : "A Ph.D. student at Korea University"
   location         : "Seoul, Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://keunsoo-ko.github.io/cv/"
+  github           : "keunsoo-ko"
   google_plus      :
   keybase          :
   instagram        :
@@ -175,18 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+#  teaching:
+#    output: true
+#    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
+#  talks:
+#    output: true
+#    permalink: /:collection/:path/
 
 
 # Defaults
@@ -210,14 +210,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+#  - scope:
+#      path: ""
+#      type: teaching
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      comments: true
   # _publications
   - scope:
       path: ""
@@ -228,14 +228,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+#  - scope:
+#      path: ""
+#      type: portfolio
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      comment: true
   # _talks
   - scope:
       path: ""
