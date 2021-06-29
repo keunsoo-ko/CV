@@ -5,12 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+#{% if author.googlescholar %}
+  You can also find my articles on <u><a href="https://scholar.google.co.kr/citations?user=stpMbagAAAAJ&hl=ko">my Google Scholar profile</a>.</u>
+#{% endif %}
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+#{% for post in site.publications reversed %}
+#  {% include archive-single.html %}
+#{% endfor %}
+
+* **Keunsoo Ko**, Yeong Jun Koh, Soonkeun Chang, Chang-Su Kim, "Light Field Super-Resolution via Adaptive Feature Remixing," <i>IEEE Transactions on Image Processing</i>, vol. 30, pp. 4114–4128, Apr. 2021.
+
+* Ji-Soo Kim, **Keunsoo Ko**, Chang-Su Kim, "Adaptive Lattice-Aware Image Demosaicking Using Global And Local Information," in Proc. IEEE International Conference on Image Processing (ICIP), 2020.
+
+* Junheum Park, **Keunsoo Ko**, Chul Lee, Chang-Su Kim, "BMBC: Bilateral motion estimation with bilateral cost volume for video interpolation," in Proc. European Conference on Computer Vision (ECCV), 2020.
+
+* **Keunsoo Ko**, Jun-Tae Lee, and Chang-Su Kim, "PAC-Net: pairwise aesthetic comparison network for image aesthetic assessment," in Proc. IEEE International Conference on Image Processing (ICIP), 2018.
