@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+About Me
+======
 I am a Master-Ph.D. joint course student in the School of Electrical Engineering at Korea University. I received the B.S. degree in the School of Electrical Engineering from Korea University in Feb 2017.
 
 <br>
