@@ -5,15 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-#{% if author.googlescholar %}
-  You can also find my articles on <u><a href="https://scholar.google.co.kr/citations?user=stpMbagAAAAJ&hl=ko">my Google Scholar profile</a>.</u>
-#{% endif %}
+You can also find my articles on <u><a href="https://scholar.google.co.kr/citations?user=stpMbagAAAAJ&hl=ko">my Google Scholar profile</a>.</u>
 
 {% include base_path %}
 
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
 
 * **Keunsoo Ko**, Yeong Jun Koh, Soonkeun Chang, Chang-Su Kim, "Light Field Super-Resolution via Adaptive Feature Remixing," <i>IEEE Transactions on Image Processing</i>, vol. 30, pp. 4114–4128, Apr. 2021.
 
