@@ -17,5 +17,5 @@ I am a Master-Ph.D. joint course student in the School of Electrical Engineering
 Latest News
 ======
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% include archive-single-news.html %}
 {% endfor %}
