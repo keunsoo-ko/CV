@@ -14,6 +14,6 @@ You can also find my articles on <u><a href="https://scholar.google.co.kr/citati
 
 * Ji-Soo Kim, **Keunsoo Ko**, Chang-Su Kim, "Adaptive Lattice-Aware Image Demosaicking Using Global And Local Information," in Proc. IEEE International Conference on Image Processing (ICIP), 2020.
 
-* Junheum Park, **Keunsoo Ko**, Chul Lee, Chang-Su Kim, "BMBC: Bilateral motion estimation with bilateral cost volume for video interpolation," in Proc. European Conference on Computer Vision (ECCV), 2020.
+* Junheum Park, **Keunsoo Ko**, Chul Lee, Chang-Su Kim, "BMBC: Bilateral Motion Estimation with Bilateral Cost Volume for Video Interpolation," in Proc. European Conference on Computer Vision (ECCV), 2020.
 
-* **Keunsoo Ko**, Jun-Tae Lee, and Chang-Su Kim, "PAC-Net: pairwise aesthetic comparison network for image aesthetic assessment," in Proc. IEEE International Conference on Image Processing (ICIP), 2018.
+* **Keunsoo Ko**, Jun-Tae Lee, and Chang-Su Kim, "PAC-Net: Pairwise Aesthetic Comparison Network for Image Aesthetic Assessment," in Proc. IEEE International Conference on Image Processing (ICIP), 2018.
