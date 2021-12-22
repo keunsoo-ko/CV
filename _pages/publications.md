@@ -9,6 +9,9 @@ You can also find my articles on <u><a href="https://scholar.google.co.kr/citati
 
 {% include base_path %}
 
+* Ji-Soo Kim, **Keunsoo Ko**, Chang-Su Kim, "Gluing Reference Patches Together for Face Super-Resolution," <i>IEEE Access</i>, Dec. 2021.
+
+* **Keunsoo Ko**, Chang-Su Kim, "IceNet for Interactive Contrast Enhancement," <i>IEEE Access</i>, Dec. 2021.
 
 * **Keunsoo Ko**, Yeong Jun Koh, Soonkeun Chang, Chang-Su Kim, "Light Field Super-Resolution via Adaptive Feature Remixing," <i>IEEE Transactions on Image Processing</i>, vol. 30, pp. 4114–4128, Apr. 2021.
 
