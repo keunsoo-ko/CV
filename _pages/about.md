@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am a Master-Ph.D. joint course student in the School of Electrical Engineering at Korea University. I received the B.S. degree in the School of Electrical Engineering from Korea University in Feb 2017.
+I am an Assistant Professor with the Department of Artificial Intelligence at Catholic University of Korea, Bucheon, Korea. I was a Postdoctoral Fellow with the School of Electrical Engineering, Korea University, Seoul, Korea in 2023. I received the B.S. and Ph.D. degrees from Korea University, Seoul, Korea, in 2017 and 2023, respectively.
 
 <br>
 
