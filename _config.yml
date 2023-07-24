@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Keunsoo Ko"
 title_separator          : "-"
 name                     : &name "Keunsoo Ko"
-description              : &description "Ph.D. student at Korea University"
+description              : &description "Assistant Professor at Catholic University of Korea"
 url                      : https://keunsoo-ko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/cv" # the subpath of your site, e.g. "/blog"
 repository               : "keunsoo-ko.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Keunsoo Ko"
-  avatar           : "profile.png"
-  bio              : "A Ph.D. student at Korea University"
-  location         : "Seoul, Korea"
+  avatar           : "keunsoo.jpg"
+  bio              : "Assistant Professor at Catholic University of Korea"
+  location         : "Bucheon, Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.kr/citations?user=stpMbagAAAAJ&hl=ko"
