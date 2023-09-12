@@ -45,7 +45,7 @@ Professional activities
 ------
 * Reviewer for journals
   * IEEE Transactions on Multimedia
-  * IEEE ACCESS
+  * IEEE Access
   * Journal of Visual Communication and Image Representation
   * Scientific Reports
   * Signal, Image, and Video Processing
