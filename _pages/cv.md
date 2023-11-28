@@ -44,12 +44,15 @@ Publications
 Professional activities
 ------
 * Reviewer for journals
+  * IEEE Transactions on Pattern Analysis and Machine Intelligence
   * IEEE Transactions on Multimedia
   * IEEE Access
   * Journal of Visual Communication and Image Representation
-  * Scientific Reports
   * Signal, Image, and Video Processing
+  * Multimedia Systems
+  * Scientific Reports
 * Reviewer for conferences
+  * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   * IEEE International Symposium on Circuits and Systems
   
 Computer Skills
