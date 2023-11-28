@@ -47,6 +47,7 @@ Professional activities
   * IEEE Transactions on Pattern Analysis and Machine Intelligence
   * IEEE Transactions on Multimedia
   * IEEE Access
+  * Transactions on Consumer Electronics
   * Journal of Visual Communication and Image Representation
   * Signal, Image, and Video Processing
   * Multimedia Systems
